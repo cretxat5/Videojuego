@@ -141,9 +141,9 @@ BACKGROUNDS_DIR: str = os.path.join(ASSETS_DIR, "fondos")
 # ──────────────────────────────────────────────────────────────────
 CREDITS_INFO: dict = {
     "juego": "Ascenso Corporativo",
-    "integrantes": ["Estudiante 1 - Tu Nombre", "Estudiante 2 - Tu Nombre"],
+    "integrantes": ["Estudiante 1 - Santiago Cardona", "Estudiante 2 - Maria Jose Herrera"],
     "materia": "Computación Gráfica",
-    "profesor": "Nombre del Profesor",
+    "profesor": "Francisco Medina",
     "anio": "2025",
 }
 
