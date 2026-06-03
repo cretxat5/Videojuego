@@ -1,0 +1,16 @@
+# Este archivo indica que la carpeta assets/sonidos existe.
+# Coloca aquí los archivos de audio del juego:
+#
+#   menu_music.ogg    — Música del menú principal
+#   menu_nav.wav      — Sonido al navegar opciones
+#   menu_select.wav   — Sonido al seleccionar opción
+#   recoger.wav       — Sonido al recoger objeto
+#   lanzar.wav        — Sonido al lanzar distracción
+#   cambiar.wav       — Sonido al cambiar personaje
+#   puerta.wav        — Sonido al abrir puerta
+#   detectado.wav     — Sonido al ser detectado
+#   subir_piso.wav    — Sonido al subir de piso
+#   victoria.wav      — Sonido de victoria final
+#
+# Formatos soportados por pygame: WAV, OGG, MP3
+# Si los archivos no existen, el juego funciona sin sonido.

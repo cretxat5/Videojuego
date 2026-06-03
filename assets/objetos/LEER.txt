@@ -1,0 +1,12 @@
+# Carpeta: assets/objetos/
+#
+# ARCHIVOS ESPERADOS (PNG, 24x24 px con transparencia):
+#   identificacion.png  — Identificación temporal
+#   carpeta.png         — Carpeta de documentos
+#   tarjeta.png         — Tarjeta de acceso
+#   hoja_vida.png       — Hoja de vida oficial
+#   moneda.png          — Moneda (distracción)
+#   lata.png            — Lata (distracción)
+#   papel.png           — Papel (distracción)
+#
+# Si no existen, se generan sprites de respaldo automáticamente.

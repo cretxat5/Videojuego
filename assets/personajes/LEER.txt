@@ -1,0 +1,23 @@
+# Carpeta: assets/personajes/
+#
+# Coloca aquí las imágenes de los dos personajes jugables.
+#
+# ARCHIVOS ESPERADOS:
+#
+#   player1_down.png   — Jugador 1 mirando hacia abajo
+#   player1_up.png     — Jugador 1 mirando hacia arriba
+#   player1_left.png   — Jugador 1 mirando a la izquierda
+#   player1_right.png  — Jugador 1 mirando a la derecha
+#
+#   player2_down.png   — Jugador 2 mirando hacia abajo
+#   player2_up.png     — Jugador 2 mirando hacia arriba
+#   player2_left.png   — Jugador 2 mirando a la izquierda
+#   player2_right.png  — Jugador 2 mirando a la derecha
+#
+# TAMAÑO RECOMENDADO: 32x32 px o 64x64 px
+# FORMATO: PNG con transparencia (canal alfa)
+#
+# NOTA: Si los archivos no existen, el juego genera sprites de respaldo
+# automáticamente (cuadrados de color azul/naranja con etiquetas P1/P2).
+# Puedes reemplazarlos con fotografías de los estudiantes recortadas
+# con fondo transparente.

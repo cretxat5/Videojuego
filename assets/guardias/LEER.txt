@@ -1,0 +1,7 @@
+# Carpeta: assets/guardias/
+#
+# ARCHIVOS ESPERADOS:
+#   guard_down.png, guard_up.png, guard_left.png, guard_right.png
+#
+# TAMAÑO: 32x32 px, PNG con transparencia.
+# Si no existen, se usa sprite de respaldo rojo automáticamente.
